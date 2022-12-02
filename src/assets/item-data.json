@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Coca Cola",
+      "id": 0,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": " ",
+      "image": "images/coke.png"
+    },
+    {
+      "name": "Sprite",
+      "id": 1,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": " ",
+      "image": "images/sprite.png"
+    },
+    {
+      "name": "Diet Coke",
+      "id": 2,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": "sugarfree",
+      "image": "images/diet_coke_50.png"
+    },
+    {
+      "name": "Coke Zero",
+      "id": 3,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": "sugarfree",
+      "image": "images/coke_zero.png"
+    },
+    {
+      "name": "Minutemaid Orange",
+      "id": 4,
+      "price": 2.00,
+      "tag1": " ",
+      "tag2": " ",
+      "image": "images/orange.png"
+    },
+    {
+      "name": "Dr. Pepper",
+      "id": 5,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": " ",
+      "image": "images/drpepper.png"
+    },
+    {
+      "name": "Sprite Zero",
+      "id": 6,
+      "price": 2.00,
+      "tag1": "sparkling",
+      "tag2": "sugarfree",
+      "image": "images/sprite_zero.png"
+    },
+    {
+      "name": "Mello Yello",
+      "id": 7,
+      "price": 2.25,
+      "tag1": "sparkling",
+      "tag2": " ",
+      "image": "images/melloyello.png"
+    },
+    {
+      "name": "Dasani Water",
+      "id": 8,
+      "price": 1.25,
+      "tag1": "sugarfree",
+      "tag2": " ",
+      "image": "images/dasani.png"
+    },
+    {
+      "name": "White Claw",
+      "id": 9,
+      "price": 5.00,
+      "tag1": "sparkling",
+      "tag2": "alcohol",
+      "image": "images/whiteclaw.png"
+    },
+    {
+      "name": "High Noon",
+      "id": 10,
+      "price": 5.00,
+      "tag1": "sparkling",
+      "tag2": "alcohol",
+      "image": "images/highnoon.png"
+    },
+    {
+      "name": "Twisted Tea",
+      "id": 11,
+      "price": 5.00,
+      "tag1": " ",
+      "tag2": "alcohol",
+      "image": "images/twea.png"
+    }
+  ]
+  
